@@ -4,6 +4,8 @@ Say how many presents you have in each size and what your roll looks like (width
 
 **Use it now, no install:** download `index.html` and open it in any browser, or use the page version with a longer how-to at [tchworks.co.uk/free/christmas-wrapping-paper-calculator-2026](https://www.tchworks.co.uk/free/christmas-wrapping-paper-calculator-2026/?utm_source=github&utm_medium=repo&utm_campaign=wrap-calc-repo).
 
+**Free printable PDF (no install):** [Download the A4 pack](https://github.com/wilsonryan-hue/christmas-wrapping-paper-calculator/releases/download/v1.0.0-free-printable/christmas-wrapping-paper-planner-2026-free.pdf) — size reference table, blank planning sheet, worked 15-present example, tips ([release notes](https://github.com/wilsonryan-hue/christmas-wrapping-paper-calculator/releases/tag/v1.0.0-free-printable)).
+
 ## The sum
 
 For one box with length L, width W and height H, the paper has to go right round the box and run past each end:
