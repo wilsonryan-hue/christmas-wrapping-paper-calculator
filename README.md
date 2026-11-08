@@ -28,3 +28,7 @@ An estimate only. Odd shapes: enter the smallest box that would hold them. Check
 ## Licence
 
 MIT. Made by [TCH Works](https://www.tchworks.co.uk/?utm_source=github&utm_medium=repo&utm_campaign=wrap-calc-repo), which also publishes free [printable gift tags](https://www.tchworks.co.uk/free/christmas-gift-tags-printable-2026/?utm_source=github&utm_medium=repo&utm_campaign=wrap-calc-repo), [Christmas cards](https://www.tchworks.co.uk/cards/christmas/?utm_source=github&utm_medium=repo&utm_campaign=wrap-calc-repo) and a printable [Christmas Budget & Gift Planner](https://tchworks.gumroad.com/l/kazjns?utm_source=github&utm_medium=repo&utm_campaign=wrap-calc-repo).
+
+## Free printable on Gumroad
+
+Get the A4 wrapping paper planner free (£0, pay what you want): https://tchworks.gumroad.com/l/bpurzh
